@@ -7,3 +7,6 @@ git merge
 git pull
 git remote
 "Adiciona index.txt com lista de comandos"
+
+
+Frango was Here
